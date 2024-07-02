@@ -1,37 +1,44 @@
 {
-	"name": "ngx-intl-tel-input",
-	"version": "3.3.0",
-	"peerDependencies": {
-		"@angular/common": "^16.2.12",
-		"@angular/core": "^16.2.12",
-		"@angular/forms": "^16.2.12",
-		"google-libphonenumber": "^3.2.35",
-		"intl-tel-input": "^17.0.3",
-		"ngx-bootstrap":"^11.0.0"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/webcat12345/ngx-intl-tel-input"
-	},
-	"author": {
-		"name": "webcat12345",
-		"email": "webcat91@gmail.com"
-	},
-	"keywords": [
-		"angular",
-		"ng8",
-		"ng9",
-		"ng10",
-		"angular 16",
-		"intl-tel-input",
-		"phone number",
-		"validation"
-	],
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/webcat12345/ngx-intl-tel-input/issues"
-	},
-	"devDependencies": {
-		"@types/google-libphonenumber": "^7.4.23"
-	}
+  "name": "@tasleem96/ngx-intl-tel-input",
+  "version": "4.0.0",
+  "peerDependencies": {
+    "@angular/common": "^16.2.12",
+    "@angular/core": "^16.2.12",
+    "@angular/forms": "^16.2.12",
+    "google-libphonenumber": "^3.2.35",
+    "intl-tel-input": "^17.0.3",
+    "ngx-bootstrap": "^11.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tasleem96/ngx-intl-tel-input.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tasleem96/ngx-intl-tel-input/issues"
+  },
+  "author": {
+    "name": "webcat12345",
+    "email": "webcat91@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "CloudIDEaaS Inc",
+      "email": "support@cloudideaas.com",
+      "url": "http://www.cloudideaas.com/hydra/index.htm"
+    }
+  ],
+  "keywords": [
+    "angular",
+    "ng8",
+    "ng9",
+    "ng10",
+    "angular 16",
+    "intl-tel-input",
+    "phone number",
+    "validation"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-libphonenumber": "^7.4.23"
+  }
 }
