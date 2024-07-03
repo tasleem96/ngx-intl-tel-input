@@ -1,6 +1,6 @@
 {
   "name": "@tasleem96/ngx-intl-tel-input",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "private": false,
   "peerDependencies": {
     "@angular/common": "^16.2.12",
