@@ -1,0 +1,6 @@
+export var PhoneNumberFormat;
+(function (PhoneNumberFormat) {
+    PhoneNumberFormat["International"] = "INTERNATIONAL";
+    PhoneNumberFormat["National"] = "NATIONAL";
+})(PhoneNumberFormat || (PhoneNumberFormat = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicGhvbmUtbnVtYmVyLWZvcm1hdC5lbnVtLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vLi4vLi4vc3JjL2xpYi9lbnVtcy9waG9uZS1udW1iZXItZm9ybWF0LmVudW0udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsTUFBTSxDQUFOLElBQVksaUJBR1g7QUFIRCxXQUFZLGlCQUFpQjtJQUM1QixvREFBK0IsQ0FBQTtJQUMvQiwwQ0FBcUIsQ0FBQTtBQUN0QixDQUFDLEVBSFcsaUJBQWlCLEtBQWpCLGlCQUFpQixRQUc1QiIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBlbnVtIFBob25lTnVtYmVyRm9ybWF0IHtcblx0SW50ZXJuYXRpb25hbCA9ICdJTlRFUk5BVElPTkFMJyxcblx0TmF0aW9uYWwgPSAnTkFUSU9OQUwnLFxufVxuIl19
