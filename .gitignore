@@ -4,7 +4,6 @@
 ### Angular ###
 ## Angular ##
 # compiled output
-dist/
 tmp/
 app/**/*.js
 app/**/*.js.map
@@ -139,7 +138,6 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
 
 # Gatsby files
 .cache/
@@ -148,7 +146,6 @@ dist
 # public
 
 # vuepress build output
-.vuepress/dist
 
 # vuepress v2.x temp and cache directory
 .temp
